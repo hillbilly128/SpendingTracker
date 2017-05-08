@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Spending Tracker</string>
+    <string name="date_field">Date</string>
+    <string name="desription_field">Transcation Description</string>
+    <string name="amount_field">Amount</string>
+</resources>
