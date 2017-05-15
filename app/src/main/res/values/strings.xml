@@ -3,4 +3,5 @@
     <string name="date_field">Date</string>
     <string name="desription_field">Transcation Description</string>
     <string name="amount_field">Amount</string>
+    <string name="add_button">Add</string>
 </resources>
