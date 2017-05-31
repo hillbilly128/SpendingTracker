@@ -4,4 +4,6 @@
     <string name="desription_field">Transcation Description</string>
     <string name="amount_field">Amount</string>
     <string name="add_button">Add</string>
+    <string name="add_record_success">Spending Added</string>
+    <string name="add_record_fail">Failed to add spending</string>
 </resources>
